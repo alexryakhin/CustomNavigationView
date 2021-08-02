@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Billie_Eilish_The_World_s_a_Little_Blurry-838274519-large.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
